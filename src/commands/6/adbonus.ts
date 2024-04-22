@@ -11,6 +11,12 @@ export const adbonus: Command = {
 
     // eslint-disable-next-line max-len
     const content: string = `
+Dark Energy: 2
+Memory Gain: 1.5
+Glyph Rarity: +5%
+Relic Shards: 1.5
+RM: 2
+GS: 2
 DT: 2
 EP: min(max(EP^0.01, 1.5), 1e10)
 IP: max(IP^0.01, 2)
